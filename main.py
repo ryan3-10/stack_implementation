@@ -107,8 +107,6 @@ def main():
             print(f"postfix: {postfix}")
             print(f"answer: {answer}")
             print("\n")
-    
-    print(in2post("(8+3)*(5-6))"))
 
 if __name__=="__main__":
     main()
