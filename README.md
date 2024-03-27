@@ -1,6 +1,6 @@
 # stack_implementation
 
-This school project opens up a file of infix expressions, and does the following for each expression, using a Stack ATD:
+This program opens up a file of infix expressions, and does the following for each expression, using a Stack ATD:
 1. Displays the infix expression
 2. Converts the infix expression into a postfix expression
 3. Displays the postfix expression
